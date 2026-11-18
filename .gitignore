@@ -1,1 +1,10 @@
-/bin/
+bin/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+.settings/
+.metadata/
+.DS_Store
+Thumbs.db
